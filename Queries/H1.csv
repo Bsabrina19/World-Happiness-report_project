@@ -1,0 +1,170 @@
+country,avg_life_expectancy,avg_freedom
+"Hong Kong",1.03,0.51
+Singapore,1.01,0.55
+Japan,0.98,0.49
+"Northern Cyprus",0.98,0.46
+Spain,0.95,0.41
+"South Korea",0.95,0.25
+"Hong Kong S.A.R., China",0.94,0.49
+Switzerland,0.93,0.62
+Italy,0.93,0.24
+Iceland,0.92,0.62
+France,0.92,0.49
+Australia,0.91,0.61
+Cyprus,0.91,0.38
+Canada,0.9,0.61
+Sweden,0.9,0.62
+Israel,0.9,0.42
+Luxembourg,0.9,0.58
+"New Zealand",0.89,0.62
+Netherlands,0.88,0.59
+Austria,0.88,0.58
+Ireland,0.88,0.57
+Belgium,0.88,0.54
+"United Kingdom",0.88,0.5
+Malta,0.88,0.59
+Denmark,0.87,0.63
+Norway,0.87,0.64
+Finland,0.87,0.62
+Germany,0.87,0.56
+"North Cyprus",0.87,0.47
+Portugal,0.87,0.51
+Greece,0.87,0.09
+Taiwan,0.86,0.37
+Slovenia,0.85,0.58
+Chile,0.84,0.4
+"North Macedonia",0.84,0.34
+"Costa Rica",0.83,0.59
+"Czech Republic",0.83,0.47
+"United States",0.82,0.51
+China,0.8,0.51
+Albania,0.79,0.37
+Lebanon,0.79,0.32
+"Taiwan Province of China",0.79,0.36
+Panama,0.78,0.54
+Uruguay,0.78,0.57
+"Puerto Rico",0.78,0.47
+Mexico,0.77,0.44
+"United Arab Emirates",0.77,0.6
+Qatar,0.77,0.6
+Slovakia,0.77,0.31
+Poland,0.77,0.51
+Croatia,0.77,0.29
+Oman,0.76,0.63
+Argentina,0.76,0.48
+"Bosnia and Herzegovina",0.76,0.18
+Ecuador,0.75,0.48
+Estonia,0.75,0.48
+Romania,0.74,0.43
+Hungary,0.74,0.23
+Bulgaria,0.74,0.3
+Bahrain,0.73,0.52
+Montenegro,0.73,0.2
+Nicaragua,0.72,0.49
+Vietnam,0.72,0.58
+Serbia,0.72,0.23
+Thailand,0.71,0.57
+Lithuania,0.71,0.26
+Kuwait,0.7,0.51
+Peru,0.7,0.44
+Belarus,0.7,0.3
+Mauritius,0.7,0.52
+Turkey,0.7,0.26
+Latvia,0.7,0.31
+Armenia,0.7,0.22
+Malaysia,0.69,0.44
+Jamaica,0.69,0.5
+Tunisia,0.69,0.25
+Iran,0.69,0.31
+"Sri Lanka",0.69,0.53
+Brazil,0.68,0.44
+Venezuela,0.68,0.21
+Macedonia,0.68,0.33
+Georgia,0.68,0.35
+Colombia,0.67,0.49
+"Saudi Arabia",0.67,0.42
+Algeria,0.67,0.18
+Jordan,0.67,0.41
+"El Salvador",0.66,0.42
+Honduras,0.66,0.4
+Morocco,0.65,0.39
+Paraguay,0.64,0.51
+Kazakhstan,0.64,0.44
+"Dominican Republic",0.64,0.55
+Ukraine,0.64,0.17
+"Trinidad & Tobago",0.64,0.53
+Russia,0.63,0.36
+Guatemala,0.62,0.55
+Moldova,0.62,0.26
+Kyrgyzstan,0.62,0.47
+Azerbaijan,0.62,0.38
+Kosovo,0.61,0.32
+"Palestinian Territories",0.61,0.23
+Uzbekistan,0.59,0.66
+Libya,0.59,0.44
+Mongolia,0.59,0.38
+Tajikistan,0.59,0.41
+Bangladesh,0.59,0.48
+Egypt,0.57,0.24
+Syria,0.57,0.08
+Suriname,0.56,0.56
+Indonesia,0.56,0.47
+Nepal,0.56,0.43
+"Trinidad and Tobago",0.55,0.52
+Bolivia,0.54,0.55
+Bhutan,0.54,0.5
+Philippines,0.54,0.59
+Iraq,0.54,0.22
+Turkmenistan,0.52,0.42
+Cambodia,0.51,0.64
+India,0.5,0.46
+Laos,0.48,0.57
+Pakistan,0.46,0.23
+Belize,0.46,0.55
+Myanmar,0.45,0.5
+Senegal,0.45,0.35
+Madagascar,0.43,0.18
+Gambia,0.43,0.38
+Gabon,0.42,0.31
+Rwanda,0.42,0.58
+Ethiopia,0.41,0.4
+Kenya,0.41,0.44
+Tanzania,0.4,0.39
+Comoros,0.39,0.18
+"Somaliland region",0.38,0.43
+Namibia,0.38,0.48
+Yemen,0.37,0.24
+Ghana,0.36,0.43
+Djibouti,0.36,0.46
+"Congo (Brazzaville)",0.35,0.42
+Haiti,0.34,0.09
+Mauritania,0.34,0.13
+Botswana,0.34,0.49
+Malawi,0.33,0.46
+Sudan,0.32,0.03
+Zambia,0.3,0.46
+Liberia,0.3,0.33
+"South Africa",0.29,0.43
+Uganda,0.29,0.43
+Togo,0.29,0.36
+Niger,0.28,0.39
+Benin,0.28,0.42
+Zimbabwe,0.27,0.32
+"Burkina Faso",0.27,0.32
+Afghanistan,0.25,0.12
+Guinea,0.24,0.35
+"Congo (Kinshasa)",0.21,0.24
+Burundi,0.21,0.1
+Cameroon,0.2,0.44
+Mali,0.2,0.33
+"South Sudan",0.2,0.12
+Mozambique,0.19,0.46
+Somalia,0.15,0.6
+Angola,0.13,0.03
+Nigeria,0.11,0.38
+"Ivory Coast",0.11,0.43
+Chad,0.09,0.18
+Lesotho,0.08,0.37
+"Sierra Leone",0.05,0.34
+"Central African Republic",0.05,0.32
+Swaziland,0.04,0.31
